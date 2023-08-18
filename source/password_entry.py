@@ -1,5 +1,5 @@
 # if the name and password entered correctly it will show a welcome message
-# esle it will print incorrect message and ask you if you want to try again
+# else it will print incorrect message and ask you if you want to try again
 
 user_name = ['Ahmed','Ali','Amr']
 password = [1394,6078,9345]
