@@ -8,7 +8,9 @@
 - install c++ helper  from extension
 - install cmake  from extension
 - install cmake tools  from extension
-
+## 00.2) Multi client socket:
+ * use threading to connect multi client to a server
+ 
 ## 01) Counting number in list :   
  * Write a Python program to count the specific number  in a given list.
 ## 02) Vowel or not : 
