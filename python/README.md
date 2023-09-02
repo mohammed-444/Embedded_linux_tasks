@@ -41,3 +41,5 @@
  * take the value of the list item and append to file 
 ## 16) gpio init avr:
  * make a c file and append the pin value input or output to that file
+## 17) command line:
+ * Python program to get the command-line arguments
