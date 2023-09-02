@@ -35,5 +35,9 @@
  * from a specific web it will parse a jason file and give you random activites
 ## 13) count number of lines in file :
  * open a file and count copy all the line then count them
-## 13) count number of words in file :
+## 14) count number of words in file:
  * open a file and count copy all the line then split each line into word finally count them
+## 15) list to text file:
+ * take the value of the list item and append to file 
+## 16) gpio init avr:
+ * make a c file and append the pin value input or output to that file
