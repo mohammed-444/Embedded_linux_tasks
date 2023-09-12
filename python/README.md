@@ -10,7 +10,19 @@
 - install cmake tools  from extension
 ## 00.2) Multi client socket:
  * use threading to connect multi client to a server
- 
+
+## 01.1) gui-factorial:
+ * using tkinter to make a window that calculate the factorial of a number
+
+## 01.2) gui-led control:
+ * using tkinter to make a window that turn the led on and off using button
+
+## 01.3) gui-reverse input:
+ * using tkinter to make a window that reverse the input sentance 
+
+## 01.4) gui-simple calculator:
+ * using tkinter to make a window that enter two number then choose to sub or sum them
+
 ## 01) Counting number in list :   
  * Write a Python program to count the specific number  in a given list.
 ## 02) Vowel or not : 
